@@ -17,7 +17,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">💻 Software Test Engineer with 2+ years of experience at Accenture, skilled in Selenium, Cucumber, and Playwright.<br><br>☁️ Currently transitioning into DevOps, building hands-on projects in AWS, CI/CD, Docker, Kubernetes, and Terraform.<br><br>🚀 Passionate about automation, cloud technologies, and continuous learning. Actively exploring opportunities in Cloud & DevOps Engineering.</h5>
+<h4 data-importer="text" align="left">💻 Software Test Engineer with 2+ years of experience at Accenture, skilled in Selenium, Cucumber, and Playwright.<br><br>☁️ Currently transitioning into DevOps, building hands-on projects in AWS, CI/CD, Docker, Kubernetes, and Terraform.<br><br>🚀 Passionate about automation, cloud technologies, and continuous learning. Actively exploring opportunities in Cloud & DevOps Engineering.</h4>
 
 ###
 
@@ -56,14 +56,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanushree sankar/Tanushree sankar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanushree sankar/Tanushree sankar/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tanushree sankar/Tanushree sankar/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 
 ###
 
